@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <action_status/>
+        <action_template/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <compiler_build/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Getting days ago  from current date for overdue task</description>
+        <ih_action>false</ih_action>
+        <internal_name>get_days_ago_date_action</internal_name>
+        <label_cache/>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Get Days Ago Date Action</name>
+        <natlang/>
+        <outputs/>
+        <state>draft</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-26 22:53:54</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>524d8da2db07011023cb1d6305961924</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Get Days Ago Date Action</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt Spoke" source="x_783677_needit_sp">1cfdc8aadb03011023cb1d63059619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">1cfdc8aadb03011023cb1d63059619f0</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_524d8da2db07011023cb1d6305961924</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-26 22:53:54</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_definition>
+    <sys_translated_text action="delete_multiple" query="documentkey=524d8da2db07011023cb1d6305961924"/>
+    <sys_variable_value action="delete_multiple" query="document_key=524d8da2db07011023cb1d6305961924"/>
+    <sys_hub_step_instance action="delete_multiple" query="action=524d8da2db07011023cb1d6305961924"/>
+    <sys_hub_action_input action="delete_multiple" query="model=524d8da2db07011023cb1d6305961924"/>
+    <sys_hub_action_output action="delete_multiple" query="model=524d8da2db07011023cb1d6305961924"/>
+    <sys_hub_pill_compound action="delete_multiple" query="attached_to=524d8da2db07011023cb1d6305961924"/>
+    <sys_hub_action_status_metadata action="delete_multiple" query="action_type_id=524d8da2db07011023cb1d6305961924"/>
+    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_action_input_524d8da2db07011023cb1d6305961924"/>
+    <sys_choice action="delete_multiple" query="name=var__m_sys_hub_action_input_524d8da2db07011023cb1d6305961924"/>
+    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_action_output_524d8da2db07011023cb1d6305961924"/>
+    <sys_choice action="delete_multiple" query="name=var__m_sys_hub_action_output_524d8da2db07011023cb1d6305961924"/>
+    <sys_hub_action_plan action="delete_multiple" query="action_id=524d8da2db07011023cb1d6305961924"/>
+</record_update>

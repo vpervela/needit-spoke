@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>write</operation>
+        <source_scope display_value="NeedIt Spoke">1cfdc8aadb03011023cb1d63059619f0</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-26 19:35:59</sys_created_on>
+        <sys_id>cbff94eadb43011023cb1d630596193b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_needit_task</sys_name>
+        <sys_package display_value="NeedIt Spoke" source="x_783677_needit_sp">1cfdc8aadb03011023cb1d63059619f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">1cfdc8aadb03011023cb1d63059619f0</sys_scope>
+        <sys_update_name>sys_scope_privilege_cbff94eadb43011023cb1d630596193b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-26 19:35:59</sys_updated_on>
+        <target_name>x_58872_needit_needit_task</target_name>
+        <target_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</target_scope>
+        <target_type>sys_db_object</target_type>
+    </sys_scope_privilege>
+</record_update>
